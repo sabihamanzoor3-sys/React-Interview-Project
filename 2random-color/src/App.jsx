@@ -1,6 +1,6 @@
 import { useState } from "react";
 import './App.css'
-import Random from './components/Random-color'
+import Random from './components/random-color'
 
 
 function App() {
